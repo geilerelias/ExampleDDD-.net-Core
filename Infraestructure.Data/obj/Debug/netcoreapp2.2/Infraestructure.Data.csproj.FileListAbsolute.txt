@@ -10,3 +10,5 @@ C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data\bin\Debug\netcor
 C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data\obj\Debug\netcoreapp2.2\Infraestructure.Data.csproj.CopyComplete
 C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data\obj\Debug\netcoreapp2.2\Infraestructure.Data.dll
 C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data\obj\Debug\netcoreapp2.2\Infraestructure.Data.pdb
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data\bin\Debug\netcoreapp2.2\Infraestructure.Data.runtimeconfig.json
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data\bin\Debug\netcoreapp2.2\Infraestructure.Data.runtimeconfig.dev.json

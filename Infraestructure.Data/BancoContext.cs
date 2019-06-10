@@ -14,7 +14,7 @@ namespace Infraestructure.Data
     {
       
         //"Name=BancoContext"
-        static DbContextOptions<DbContextBase> options;
+       
         public BancoContext()
         {
            
@@ -26,7 +26,7 @@ namespace Infraestructure.Data
          
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=BancoContext;Trusted_Connection=True;ConnectRetryCount=0");
+            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=BancoExampleDDD;Trusted_Connection=True;");
         }
         public DbSet<Person> Persons { get; set; }
         public DbSet<Country> Countries { get; set; }
