@@ -10,7 +10,7 @@ namespace UI.Consola
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             BancoContext context = new BancoContext();
             CountryService service = new CountryService(new UnitOfWork(context), new CountryRepository(context));
