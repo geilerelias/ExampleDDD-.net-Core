@@ -1,0 +1,14 @@
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\bin\Debug\netcoreapp2.2\Domain.Test.deps.json
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\bin\Debug\netcoreapp2.2\Domain.Test.runtimeconfig.json
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\bin\Debug\netcoreapp2.2\Domain.Test.runtimeconfig.dev.json
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\bin\Debug\netcoreapp2.2\Domain.Test.dll
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\bin\Debug\netcoreapp2.2\Domain.Test.pdb
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\obj\Debug\netcoreapp2.2\Domain.Test.csprojAssemblyReference.cache
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\obj\Debug\netcoreapp2.2\Domain.Test.csproj.CoreCompileInputs.cache
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\obj\Debug\netcoreapp2.2\Domain.Test.AssemblyInfoInputs.cache
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\obj\Debug\netcoreapp2.2\Domain.Test.AssemblyInfo.cs
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\obj\Debug\netcoreapp2.2\Domain.Test.dll
+C:\Users\geile\source\repos\ExampleDDDCore\Domain.Test\obj\Debug\netcoreapp2.2\Domain.Test.pdb
