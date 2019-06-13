@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
+﻿using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Infraestructure.Data.Migrations
 {
@@ -12,7 +11,7 @@ namespace Infraestructure.Data.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("MySQL:AutoIncrement", true),
                     Name = table.Column<string>(maxLength: 100, nullable: false)
                 },
                 constraints: table =>
@@ -25,7 +24,7 @@ namespace Infraestructure.Data.Migrations
                 columns: table => new
                 {
                     Id = table.Column<long>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("MySQL:AutoIncrement", true),
                     Name = table.Column<string>(maxLength: 50, nullable: false),
                     Phone = table.Column<string>(maxLength: 20, nullable: false),
                     Address = table.Column<string>(maxLength: 100, nullable: false),
