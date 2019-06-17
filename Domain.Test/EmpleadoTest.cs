@@ -21,7 +21,7 @@ namespace Domain.Test
         [Test]
         public void TestFechasValidas()
         {
-            // TODO: Add your test code here
+      
             var fechaIncicio = new DateTime(2019, 02, 01);
             var fechaaFin = new DateTime(2019, 06, 30);
 
@@ -38,7 +38,7 @@ namespace Domain.Test
             };
 
             var answer = empleado.CalcularPrima(periodo, fechaIncicio, fechaaFin, salarioBasico);
-            Assert.That(answer, Is.EqualTo(42), "Some useful error message");
+            Assert.That(answer, Is.EqualTo(247222.22222222222), "Some useful error message");
         }
     }
 }
