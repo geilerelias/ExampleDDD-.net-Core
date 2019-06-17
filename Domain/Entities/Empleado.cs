@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security;
 using System.Text;
 using Domain.Base;
+using MySqlX.XDevAPI;
 
 namespace Domain.Entities
 {
@@ -14,12 +15,16 @@ namespace Domain.Entities
         public double SalarioBase { get; set; }
         public bool EsInterno { get; set; }
 
-        public ICollection<Prima> Primas { get; set; }
+        public List<Prima> Primas { get; set; }
+
+        public Empleado()
+        {
+            Primas = new List<Prima>();
+        }
 
 
         public double CalcularPrima(int periodo, DateTime fechaIncio, DateTime fechaFinal, double SalarioBase)
         {
-            var tiempo = new DateTime(fechaIncio.Year, fechaFinal.Month, fechaFinal.Day) - fechaIncio;
             var dias = (fechaFinal.Month - fechaIncio.Month)*30;
             dias = dias - (31-fechaFinal.Day)-(31-fechaIncio.Day);
             double valorPrima = (SalarioBase*dias)/360;
@@ -29,7 +34,6 @@ namespace Domain.Entities
                 FechaFinal = fechaFinal,
                 FechaInicio = fechaIncio,
                 SalarioBase = SalarioBase,
-                Empleado = this,
                 Valor = valorPrima,
                 Periodo = periodo
             };
