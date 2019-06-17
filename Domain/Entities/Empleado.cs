@@ -12,7 +12,7 @@ namespace Domain.Entities
         public double SalarioBase { get; set; }
         public bool EsInterno { get; set; }
 
-        public IEnumerable<Prima> Primas { get; set; }
+        public List<Prima> Primas { get; set; }
 
 
         public double CalcularPrima(int perido, DateTime fechaIncio, DateTime fechaFinal, double SalarioBase)
@@ -30,7 +30,6 @@ namespace Domain.Entities
             {
 
             }
-
             return 0;
         }
     }
