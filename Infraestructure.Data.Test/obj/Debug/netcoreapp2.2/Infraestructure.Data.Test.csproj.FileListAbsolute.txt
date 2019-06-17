@@ -1,0 +1,13 @@
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\bin\Debug\netcoreapp2.2\Infraestructure.Data.Test.deps.json
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\bin\Debug\netcoreapp2.2\Infraestructure.Data.Test.runtimeconfig.json
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\bin\Debug\netcoreapp2.2\Infraestructure.Data.Test.runtimeconfig.dev.json
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\bin\Debug\netcoreapp2.2\Infraestructure.Data.Test.dll
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\bin\Debug\netcoreapp2.2\Infraestructure.Data.Test.pdb
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\obj\Debug\netcoreapp2.2\Infraestructure.Data.Test.csproj.CoreCompileInputs.cache
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\obj\Debug\netcoreapp2.2\Infraestructure.Data.Test.AssemblyInfoInputs.cache
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\obj\Debug\netcoreapp2.2\Infraestructure.Data.Test.AssemblyInfo.cs
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\obj\Debug\netcoreapp2.2\Infraestructure.Data.Test.dll
+C:\Users\geile\source\repos\ExampleDDDCore\Infraestructure.Data.Test\obj\Debug\netcoreapp2.2\Infraestructure.Data.Test.pdb
