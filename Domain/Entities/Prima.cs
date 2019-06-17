@@ -14,6 +14,7 @@ namespace Domain.Entities
         public DateTime FechaFinal { get; set; }
         public int DiasTranscurridos { get; set; }
         public double SalarioBase { get; set; }
+        public double Valor { get; set; }
         
 
         [Display(Name = "Empleado")]
@@ -23,7 +24,7 @@ namespace Domain.Entities
         public virtual Empleado Empleado { get; set; }
 
 
-        public double AUXILIOTRANSPORTE = 2771;
+        const double AUXILIOTRANSPORTE = 2771;
 
 
 

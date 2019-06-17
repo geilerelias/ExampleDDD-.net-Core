@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Security;
 using System.Text;
 using Domain.Base;
 
@@ -12,25 +14,27 @@ namespace Domain.Entities
         public double SalarioBase { get; set; }
         public bool EsInterno { get; set; }
 
-        public List<Prima> Primas { get; set; }
+        public ICollection<Prima> Primas { get; set; }
 
 
-        public double CalcularPrima(int perido, DateTime fechaIncio, DateTime fechaFinal, double SalarioBase)
+        public double CalcularPrima(int periodo, DateTime fechaIncio, DateTime fechaFinal, double SalarioBase)
         {
-            Prima prima = new Prima();
             var tiempo = new DateTime(fechaIncio.Year, fechaFinal.Month, fechaFinal.Day) - fechaIncio;
-            if (perido == 1)
+            var dias = (fechaFinal.Month - fechaIncio.Month)*30;
+            dias = dias - (31-fechaFinal.Day)-(31-fechaIncio.Day);
+            double valorPrima = (SalarioBase*dias)/360;
+            Prima prima = new Prima()
             {
-                var meses= fechaFinal.Month - fechaIncio.Month;
-                meses = meses * 30;
-
-
-            }
-            else
-            {
-
-            }
-            return 0;
+                DiasTranscurridos = dias,
+                FechaFinal = fechaFinal,
+                FechaInicio = fechaIncio,
+                SalarioBase = SalarioBase,
+                Empleado = this,
+                Valor = valorPrima,
+                Periodo = periodo
+            };
+            Primas.Add(prima);
+            return valorPrima;
         }
     }
 }

@@ -37,9 +37,7 @@ namespace Domain.Test
                 EsInterno = esInterno
             };
 
-            empleado.CalcularPrima(periodo, fechaIncicio, fechaaFin, salarioBasico);
-            var answer = 23;
-
+            var answer = empleado.CalcularPrima(periodo, fechaIncicio, fechaaFin, salarioBasico);
             Assert.That(answer, Is.EqualTo(42), "Some useful error message");
         }
     }

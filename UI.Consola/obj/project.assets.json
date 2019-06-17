@@ -1092,7 +1092,7 @@
   },
   "libraries": {
     "BouncyCastle.NetCore/1.8.3": {
-      "sha512": "jAy3uHN1U9DpoT/TgLqDTEhlccn/4doOVxhSmmNsnoSsGfHT9Lwr634ac9D0YFujAhNw61nWF4UIpHyzv0aQww==",
+      "sha512": "An0cxp/uGPkMWfjAVyHJWBQ9igea74Ma8rtMnpkEwjemx8EoVo7IUIFpFfxpBgVuSbpQueKo2m/CoSxxfLHTtw==",
       "type": "package",
       "path": "bouncycastle.netcore/1.8.3",
       "files": [
@@ -1119,7 +1119,7 @@
       ]
     },
     "Google.Protobuf/3.6.1": {
-      "sha512": "741fGeDQjixBJaU2j+0CbrmZXsNJkTn/hWbOh4fLVXndHsCclJmWznCPWrJmPoZKvajBvAz3e8ECJOUvRtwjNQ==",
+      "sha512": "D/h9IZl76jjfM5VlPzG235Zdys9RKXNLYbRGm2fa6Y2UshTqAvYBPIydNOvNTEa24DER/m/zvelHlLO9n1GtNQ==",
       "type": "package",
       "path": "google.protobuf/3.6.1",
       "files": [
@@ -1202,7 +1202,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore/2.2.4": {
-      "sha512": "aQ0sAe2mOtSp3StjKT2wDA/BO3k8BLfpIXIG1MOlGytjQWQOvW3BzDPfgXOhxbSa7Bhdsx97aYzZUGD3DQAQjQ==",
+      "sha512": "UgvhCfj2e0B1p83f4+juEhkvOP/8vRDZ3HEo2tkX9/wS6uWTPu2WBf5kudXI74ur0AJvHu5phLBIJ1Ob+kMXww==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/2.2.4",
       "files": [
@@ -1215,7 +1215,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Abstractions/2.2.4": {
-      "sha512": "GjtIOANlpy7JcGK0Q169n52713hIHHfxUHq1+xoWlAZYSI0h/n2DrEWwCIsrnInU8FaLq4cIG7UgMTL0CnUUPw==",
+      "sha512": "4HzQsktwPyDJFUS7TMKP/5rR7DQzMNDfyKkTbOaV5I0K5eyG6+668kGQDU8BQVjAVqtBDFW9OTG2Nue+nVD2jg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.abstractions/2.2.4",
       "files": [
@@ -1228,7 +1228,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Analyzers/2.2.4": {
-      "sha512": "cLJo6dikdFQd2j9cFHhC2M1rzUeYvJLR/m7cBcuKRI6ek5t5ZyGZ0hzEJwCQmKRDV4tAl5p+NIrfDjfqTK8POw==",
+      "sha512": "7rejM6oRqUqNrj1BK4ico0Fb6XMADNn6lqPgYGYg49vJqA0NWxbavLUkMPzcPR0AYznPbHFQPuNHqT6JfCM+kA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.analyzers/2.2.4",
       "files": [
@@ -1240,7 +1240,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Design/2.2.4": {
-      "sha512": "4SfnD7wYxr+OzcPOZYlzPtKtL1cdXk+a8g4bKc8QcgaGhpvVOTK5ROTZaOe10tmvFXFEJVZSGtXpFAbgiDFtjg==",
+      "sha512": "A/erLygjDeavpkI0W5cqbfIqhm3qz34x1ObW3GQMatxyBEBzmja3P2JNvErWkdiHkojNTxDQADXVuf0YeMotUg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.design/2.2.4",
       "files": [
@@ -1257,7 +1257,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/2.2.4": {
-      "sha512": "Ga+kJhoSBNYv8C2gQl2sB5bTBkWsLFn92CPjZA5ql/MyxJTWri6lf44/GSYEcOQj0tqF5HhMAaB1HxQMiIPBcQ==",
+      "sha512": "h+M/sXgQSXlcyKLYH5x+Ah7vKE+6JIh2IUPQi9lbUka5rBYIX+B6yBt3uY5/occAbrACVGK/9tU9hy9V01KgBg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational/2.2.4",
       "files": [
@@ -1270,7 +1270,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.SqlServer/2.2.4": {
-      "sha512": "e0rW3jJXunnwUCout+lQicDoyviO53qsuawZa/HZsfRoEF/bWGlGTJxUN0MPZVQkEd5Gx8ypdDSRbGHtrQp/SA==",
+      "sha512": "EyVS75Oyraa1OQ9evjHAABYDcvAx1kAH+5kFfvzYxla71Ka6EC09veQhst+WgA3roLRULQe2hQfcFRsk0GpjlQ==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlserver/2.2.4",
       "files": [
@@ -1283,7 +1283,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Tools/2.2.4": {
-      "sha512": "9n1Mv6FrFmlVkkXVkO7U71GG42CfRjlKV0bca++UYjsmmtVVds4PhUjgVrHCh3ZTRI4jqBc5Y7trUvwdwXisPw==",
+      "sha512": "5TYZQLKhj/zVeletm28nu9MSXsQtFTIrv9/Xdc1V2gYcETsRv6ktslnvcPd4VwPc7g92f7mCcYsjmtolwDOjhw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.tools/2.2.4",
       "hasTools": true,
@@ -1834,7 +1834,7 @@
       ]
     },
     "MySql.Data/8.0.16": {
-      "sha512": "2fdNJuQwwZRbQTycyHE61NgWChIWPxeRz6DsGXrVrVHsxEnDyWIb3r1qi4Vr1o1cWZHu4Z8dY8n9l2nGwJ3k5g==",
+      "sha512": "PQC4+MznUsZoUJq3CJ+NLJ8ilSOYlBjoIxVsLbyu95G93ZarB+8sUQHM5urHM6LxpKtAZ3+SFasTz8VcPjhDmA==",
       "type": "package",
       "path": "mysql.data/8.0.16",
       "files": [
@@ -1853,7 +1853,7 @@
       ]
     },
     "MySql.Data.EntityFrameworkCore/8.0.16": {
-      "sha512": "9aZgFZAN5Tf9NDaZjM81Goy+nl59spt9Jn1Nhqd8/d6Kd8N/8IewKLnE9X5BIzkasqt5VKNQzjHcMx7tzWZjDg==",
+      "sha512": "4SWo+qpzVXi3UpkufTxhiUpGywz2EH1hOQfl3mHCxS3jqP38UxkKH/a1yb1tLXTxtqwtikaaO5eQzVG9TYD68g==",
       "type": "package",
       "path": "mysql.data.entityframeworkcore/8.0.16",
       "files": [
@@ -2260,7 +2260,7 @@
       ]
     },
     "System.Configuration.ConfigurationManager/4.4.1": {
-      "sha512": "jz3TWKMAeuDEyrPCK5Jyt4bzQcmzUIMcY9Ud6PkElFxTfnsihV+9N/UCqvxe1z5gc7jMYAnj7V1COMS9QKIuHQ==",
+      "sha512": "LoSjM/kLDpyLyoGsmwS5oVMRzHf/0XHkRpr3QZu/HuAv6Sfk919usTMLqD9N9VK3S4Q2+bd3tKJ0ko4MYFfq4Q==",
       "type": "package",
       "path": "system.configuration.configurationmanager/4.4.1",
       "files": [
@@ -3555,7 +3555,7 @@
       ]
     },
     "System.Security.Cryptography.ProtectedData/4.4.0": {
-      "sha512": "cJV7ScGW7EhatRsjehfvvYVBvtiSMKgN8bOVI0bQhnF5bU7vnHVIsH49Kva7i7GWaWYvmEzkYVk1TC+gZYBEog==",
+      "sha512": "WwEexvBd+17yfY7fcS+fBGl+HADEfCJuKeDJqBT7D6j6vKwYvfLyGuq2y/MmrKORC6mbYwth7kjinO1mPhTL3g==",
       "type": "package",
       "path": "system.security.cryptography.protecteddata/4.4.0",
       "files": [
@@ -3596,7 +3596,7 @@
       ]
     },
     "System.Security.Permissions/4.4.1": {
-      "sha512": "l8IxQ9mEAkKv85uoEcjcYhrh+yTLZtLgNqb2T7QChTdKXh45EUnmKd+Ckdt1D+VYW2dk2Pb5MT+0zwQ74Jd2Xg==",
+      "sha512": "tXBMO8OJEuw9c4KjLj4fwxJusely90azF24Uktz/evgvowAtU963HYl+G93gaRZr6pvYvsSPrjkN4+2pdVUbgw==",
       "type": "package",
       "path": "system.security.permissions/4.4.1",
       "files": [
@@ -3940,43 +3940,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\geile\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/fzacademia/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geile\\source\\repos\\ExampleDDDCore\\UI.Consola\\UI.Consola.csproj",
+      "projectUniqueName": "/home/fzacademia/projects/TDD/ExampleDDD-.net-Core/UI.Consola/UI.Consola.csproj",
       "projectName": "UI.Consola",
-      "projectPath": "C:\\Users\\geile\\source\\repos\\ExampleDDDCore\\UI.Consola\\UI.Consola.csproj",
-      "packagesPath": "C:\\Users\\geile\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geile\\source\\repos\\ExampleDDDCore\\UI.Consola\\obj\\",
+      "projectPath": "/home/fzacademia/projects/TDD/ExampleDDD-.net-Core/UI.Consola/UI.Consola.csproj",
+      "packagesPath": "/home/fzacademia/.nuget/packages/",
+      "outputPath": "/home/fzacademia/projects/TDD/ExampleDDD-.net-Core/UI.Consola/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\geile\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/fzacademia/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\geile\\source\\repos\\ExampleDDDCore\\Applications\\Applications.csproj": {
-              "projectPath": "C:\\Users\\geile\\source\\repos\\ExampleDDDCore\\Applications\\Applications.csproj"
+            "/home/fzacademia/projects/TDD/ExampleDDD-.net-Core/Applications/Applications.csproj": {
+              "projectPath": "/home/fzacademia/projects/TDD/ExampleDDD-.net-Core/Applications/Applications.csproj"
             },
-            "C:\\Users\\geile\\source\\repos\\ExampleDDDCore\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\geile\\source\\repos\\ExampleDDDCore\\Domain\\Domain.csproj"
+            "/home/fzacademia/projects/TDD/ExampleDDD-.net-Core/Domain/Domain.csproj": {
+              "projectPath": "/home/fzacademia/projects/TDD/ExampleDDD-.net-Core/Domain/Domain.csproj"
             },
-            "C:\\Users\\geile\\source\\repos\\ExampleDDDCore\\Infraestructure.Data\\Infraestructure.Data.csproj": {
-              "projectPath": "C:\\Users\\geile\\source\\repos\\ExampleDDDCore\\Infraestructure.Data\\Infraestructure.Data.csproj"
+            "/home/fzacademia/projects/TDD/ExampleDDD-.net-Core/Infraestructure.Data/Infraestructure.Data.csproj": {
+              "projectPath": "/home/fzacademia/projects/TDD/ExampleDDD-.net-Core/Infraestructure.Data/Infraestructure.Data.csproj"
             }
           }
         }
@@ -4003,7 +4001,7 @@
             "version": "[2.2.4, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers",
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.2.4, )"
